@@ -11,11 +11,11 @@
 		{
 			"id": 3,
 			"title": "Our team"
-		}
+		},
 		{
 			"id": 4,
 			"title": "Bye-bye"
-		},
+		}
 	],
 	"profile": {
 		"name": "DNS-Zoo"
