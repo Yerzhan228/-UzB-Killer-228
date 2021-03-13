@@ -1,0 +1,50 @@
+{
+	"posts": [
+		{
+			"id": 1,
+			"title": "We at DNS-Zoo"
+		},
+		{
+			"id": 2,
+			"title": "Our animals"
+		},
+		{
+			"id": 3,
+			"title": "Our team"
+		}
+		{
+			"id": 4,
+			"title": "Bye-bye"
+		},
+	],
+	"profile": {
+		"name": "DNS-Zoo"
+	},
+	"animals": [
+		{
+			"id": 1,
+			"name": "lion",
+			"desription": "The lion (Panthera leo) is a species in the family Felidae and a member of the genus Panthera. It has a muscular, deep-chested body, short, rounded head, round ears, and a hairy tuft at the end of its tail. It is sexually dimorphic; adult male lions have a prominent mane. With a typical head-to-body length of 184–208 cm (72–82 in) they are larger than females at 160–184 cm (63–72 in). It is a social species, forming groups called prides. A lion pride consists of a few adult males, related females and cubs. Groups of female lions usually hunt together, preying mostly on large ungulates. The lion is an apex and keystone predator; although some lions scavenge when opportunities occur and have been known to hunt humans, the species typically does not.",
+			"img": "https://ichef.bbci.co.uk/news/1024/branded_news/E0F0/production/_112548575_gettyimages-492611032-1.jpg"
+		},
+		{
+			"id": 2,
+			"name": "eagle",
+			"desription": "Eagle is the common name for many large birds of prey of the family Accipitridae. Eagles belong to several groups of genera, some of which are closely related. Most of the 60 species of eagle are from Eurasia and Africa.[1] Outside this area, just 14 species can be found—2 in North America, 9 in Central and South America, and 3 in Australia. It is nicknamed the king of all birds.",
+			"img": "https://upload.wikimedia.org/wikipedia/commons/1/19/%C3%81guila_calva.jpg"
+		},
+		{
+			"id": 3,
+			"name": "crocodile",
+			"desription": "Crocodiles (subfamily Crocodylinae) or true crocodiles are large semiaquatic reptiles that live throughout the tropics in Africa, Asia, the Americas and Australia. Crocodylinae, all of whose members are considered true crocodiles, is classified as a biological subfamily. A broader sense of the term crocodile, Crocodylidae (which includes Tomistoma), is not used in this article. The term crocodile here applies to only the species within the subfamily of Crocodylinae. The term is sometimes used even more loosely to include all extant members of the order Crocodilia, which includes the alligators and caimans (family Alligatoridae), the gharial and false gharial (family Gavialidae), and all other living and fossil Crocodylomorpha.",
+			"img": "https://cdn.mos.cms.futurecdn.net/B3iinpTazCJnx4LskepukZ.jpg"
+		},
+		{
+			"id": 4,
+			"name": "flamingo",
+			"desription": "Flamingos or flamingoes[2] /fləˈmɪŋɡoʊz/ are a type of wading bird in the family Phoenicopteridae, the only bird family in the order Phoenicopteriformes. Four flamingo species are distributed throughout the Americas, including the Caribbean, and two species are native to Africa, Asia, and Europe.",
+			"img": "https://artwalls.com.ua/image/catalog/animals/an-51_o.jpg"
+		}
+	]
+
+}
