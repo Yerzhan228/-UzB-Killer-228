@@ -1,0 +1,25 @@
+.search {
+    width: 55%;
+    height: 33px;
+    font-size: 16px;
+}
+.searchb {
+    background-color: DodgerBlue; 
+    border: none; 
+    color: white; 
+    padding: 12px 16px; 
+    font-size: 16px; 
+    cursor: pointer;
+ /*   background-image: url(search-icon.png); */
+    border-radius: 5%;
+}
+
+.searchb:hover {
+    background-color: RoyalBlue;
+}
+
+.result {
+    width: 95%;
+    height: auto;
+    border: solid red 1px;
+}
