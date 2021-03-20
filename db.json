@@ -62,7 +62,27 @@
 	"name": "Yegor",
 	"password": "12345_Yegor_Topoviy"
 }
+	],
+		"profiles": [
+		{
+			"id": 1,
+			"name": "vasya",
+			"pass": "123"
+		},
+		{
+			"id": 2,
+			"name": "Petya",
+			"pass": "456"
+		},
+		{
+			"id": 3,
+			"name": "Kolya",
+			"pass": "789"
+		},
+		{
+			"id": 4,
+			"name": "Somebody",
+			"pass": "142"
+		}
 	]
-
-
 }
