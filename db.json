@@ -45,6 +45,24 @@
 			"desription": "Flamingos or flamingoes[2] /fləˈmɪŋɡoʊz/ are a type of wading bird in the family Phoenicopteridae, the only bird family in the order Phoenicopteriformes. Four flamingo species are distributed throughout the Americas, including the Caribbean, and two species are native to Africa, Asia, and Europe.",
 			"img": "https://artwalls.com.ua/image/catalog/animals/an-51_o.jpg"
 		}
+	],
+	"users": [
+{
+	"id": "90",
+	"name": "Mihasik",
+	"password": "12345_Mihasik_Topoviy"
+},
+{
+	"id": "80",
+	"name": "Yerzhan",
+	"password": "12345_Yerzhan_Topoviy"
+},
+{
+	"id": "70",
+	"name": "Yegor",
+	"password": "12345_Yegor_Topoviy"
+}
 	]
+
 
 }
